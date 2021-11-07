@@ -114,5 +114,3 @@ This allows me to connect to ADB, which offers a shell which can be leveraged to
 ![ADB Connection 2](Images/ADB_Connection_2.png)
 
 ![root.txt](Images/root.txt.png)
-
-![Completion](Images/Completion.png)
