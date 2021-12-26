@@ -24,57 +24,56 @@ I have extracted the table and fed it into this repository and will be ticking o
 
 ### Linux VM's
 
-| Linux   Boxes 	| Difficulty 	|                                                Tags                                                	| Completed 	|
-|:-------------:	|:----------:	|:--------------------------------------------------------------------------------------------------:	|:---------:	|
-|               	|            	|                                                                                                    	|           	|
-|     Lame      	|    Easy    	|                                       Injection, CMS Exploit                                       	|           	|
-|   Brainfuck   	|   Insane   	|                                            Cryptography                                            	|           	|
-|    Shocker    	|    Easy    	|                                 Perl, Injection, Web -   Shellshock                                	|           	|
-|     Bashed    	|    Easy    	|                                     File Misconfiguration, Web                                     	|           	|
-|    Nibbles    	|    Easy    	|                             File Misconfiguration, Web -   Nibble Blog                             	|           	|
-|      Beep     	|    Easy    	|                                 LFI, Web - /vtigercrm in   Elastix                                 	|           	|
-|     Cronos    	|   Medium   	|                              PHP, SQL, DNS Zone Transfer,   SQLi, Web                              	|           	|
-|    Nineveh    	|   Medium   	|                                   PHP,   Port Knocking, LFI, Web                                   	|           	|
-|     Sense     	|    Easy    	|                                       FreeBSD, Injection, Web                                      	|           	|
-|   Solidstate  	|   Medium   	|                                     File Misconfiguration, Web                                     	|           	|
-|    Kotarak    	|    Hard    	|                                     Arbitrary File Upload, Web                                     	|           	|
-|      Node     	|   Medium   	|                           API Fuzzing, JSON, File   Misconfiguration, Web                          	|           	|
-|   Valentine   	|    Easy    	|                                        Patch Management, Web                                       	|           	|
-|     Poison    	|   Medium   	|                                 PHP, Log Poisoning, FreeBSD,   Web                                 	|           	|
-|     Sunday    	|    Easy    	|                                   Solaris, File Misconfiguration                                   	|           	|
-|  Tartaresauce 	|   Medium   	|                                     C, Sandbox Escape, RFI, Web                                    	|           	|
-|     Irked     	|    Easy    	|                                          Cryptography, Web                                         	|           	|
-|   Friendzone  	|    Easy    	|                        LFI, DNS Zone Transfer, File   Misconfiguration, Web                        	|           	|
-|    Swagshop   	|    Easy    	|                                           SQL, SQLi, Web                                           	|           	|
-|   Networked   	|    Easy    	|                            PHP, Arbitrary File Upload,   Injection, Web                            	|           	|
-|     Jarvis    	|   Medium   	|                                      SQL, SQLi, Web, Injection                                     	|           	|
-|     Mirai     	|    Easy    	|                     Linux, Network, Default Creds,   File System Forensics, Web                    	|           	|
-|    Popcorn    	|   Medium   	|                                              PHP, Web                                              	|           	|
-|    Haircut    	|   Medium   	|                                         PHP, Injection, Web                                        	|           	|
-|     Blocky    	|    Easy    	|                                              PHP, Web                                              	|           	|
-|     Frolic    	|    Easy    	|                                           C, Cryptography                                          	|           	|
-|    Postman    	|    Easy    	|                                     File Misconfiguration, Web                                     	|           	|
-|     Mango     	|   Medium   	|                                         PHP, Injection, Web                                        	|           	|
-|   Traverxec   	|    Easy    	|                                     File Misconfiguration, Web                                     	|           	|
-|   OpenAdmin   	|    Easy    	|                                     File Misconfiguration, Web                                     	|           	|
-|     Magic     	|   Medium   	|                            PHP, SQLi, SQL, Arbitrary File   Upload, Web                            	|           	|
-|    Admirer    	|    Easy    	|                                              SQL, Web                                              	|           	|
-|    Blunder    	|    Easy    	|                           Windows, Bash, Account   Misconfiguration, Web                           	|           	|
-|     Tabby     	|    Easy    	|                        Bash, Account   Misconfiguration, Sandbox Escape, Web                       	|           	|
-|     Doctor    	|    Easy    	|                   Bash, SSTI, Outdated Software,   Account Misconfiguration, Web                   	|           	|
-|  SneakyMailer 	|   Medium   	|                                    Bash, Client Side Attack, Web                                   	|           	|
-|    Passage    	|   Medium   	|                                 Bash, File Misconfiguration,   Web                                 	|           	|
-|     Luanne    	|    Easy    	|                     Bash, Injection, Web Fuzzing,   File Misconfiguration, Web                     	|           	|
-|      Time     	|   Medium   	|                      JavaScript, Deserialization,   File Misconfiguration, Web                     	|           	|
-|     Ready     	|   Medium   	|                                   Bash, Account Misconfiguration                                   	|           	|
-|    Delivery   	|    Easy    	|                                   Bash, Account Misconfiguration                                   	|           	|
-|    Ophiuchi   	|   Medium   	|                         Java, Deserialization, Golang,   Source Code Review                        	|           	|
-|  ScriptKiddie 	|    Easy    	|                                          Outdated Software                                         	|           	|
-|   Armageddon  	|    Easy    	|        Outdated   Software, Linux, Web, PHP, CMS Exploit, Password Reuse, CVE, Weak Password       	|           	|
-|     Knife     	|    Easy    	|                                       PHP, GTFOBins, Backdoor                                      	|           	|
-|      Pit      	|   Medium   	| PHP,   Bash, CMS Exploit, Arbitrary File Upload, Outdated Software, Process   Inspection, RCE, CVE 	|           	|
-|  Seal (Linux) 	|   Medium   	|                                        File Misconfiguration                                       	|           	|
-
+| Linux   Boxes | Difficulty |                                                Tags                                                | Completed |
+|:-------------:|:----------:|:--------------------------------------------------------------------------------------------------:|:---------:|
+|               |            |                                                                                                    |           |
+|     Lame      |    Easy    |                                       Injection, CMS Exploit                                       | Completed |
+|   Brainfuck   |   Insane   |                                            Cryptography                                            |           |
+|    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                |           |
+|     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     |           |
+|    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             |           |
+|      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 |           |
+|     Cronos    |   Medium   |                              PHP, SQL, DNS Zone Transfer,   SQLi, Web                              |           |
+|    Nineveh    |   Medium   |                                   PHP,   Port Knocking, LFI, Web                                   |           |
+|     Sense     |    Easy    |                                       FreeBSD, Injection, Web                                      |           |
+|   Solidstate  |   Medium   |                                     File Misconfiguration, Web                                     |           |
+|    Kotarak    |    Hard    |                                     Arbitrary File Upload, Web                                     |           |
+|      Node     |   Medium   |                           API Fuzzing, JSON, File   Misconfiguration, Web                          |           |
+|   Valentine   |    Easy    |                                        Patch Management, Web                                       |           |
+|     Poison    |   Medium   |                                 PHP, Log Poisoning, FreeBSD,   Web                                 |           |
+|     Sunday    |    Easy    |                                   Solaris, File Misconfiguration                                   |           |
+|  Tartaresauce |   Medium   |                                     C, Sandbox Escape, RFI, Web                                    |           |
+|     Irked     |    Easy    |                                          Cryptography, Web                                         |           |
+|   Friendzone  |    Easy    |                        LFI, DNS Zone Transfer, File   Misconfiguration, Web                        |           |
+|    Swagshop   |    Easy    |                                           SQL, SQLi, Web                                           |           |
+|   Networked   |    Easy    |                            PHP, Arbitrary File Upload,   Injection, Web                            |           |
+|     Jarvis    |   Medium   |                                      SQL, SQLi, Web, Injection                                     |           |
+|     Mirai     |    Easy    |                     Linux, Network, Default Creds,   File System Forensics, Web                    |           |
+|    Popcorn    |   Medium   |                                              PHP, Web                                              |           |
+|    Haircut    |   Medium   |                                         PHP, Injection, Web                                        |           |
+|     Blocky    |    Easy    |                                              PHP, Web                                              |           |
+|     Frolic    |    Easy    |                                           C, Cryptography                                          |           |
+|    Postman    |    Easy    |                                     File Misconfiguration, Web                                     |           |
+|     Mango     |   Medium   |                                         PHP, Injection, Web                                        |           |
+|   Traverxec   |    Easy    |                                     File Misconfiguration, Web                                     |           |
+|   OpenAdmin   |    Easy    |                                     File Misconfiguration, Web                                     |           |
+|     Magic     |   Medium   |                            PHP, SQLi, SQL, Arbitrary File   Upload, Web                            |           |
+|    Admirer    |    Easy    |                                              SQL, Web                                              |           |
+|    Blunder    |    Easy    |                           Windows, Bash, Account   Misconfiguration, Web                           |           |
+|     Tabby     |    Easy    |                        Bash, Account   Misconfiguration, Sandbox Escape, Web                       |           |
+|     Doctor    |    Easy    |                   Bash, SSTI, Outdated Software,   Account Misconfiguration, Web                   |           |
+|  SneakyMailer |   Medium   |                                    Bash, Client Side Attack, Web                                   |           |
+|    Passage    |   Medium   |                                 Bash, File Misconfiguration,   Web                                 |           |
+|     Luanne    |    Easy    |                     Bash, Injection, Web Fuzzing,   File Misconfiguration, Web                     |           |
+|      Time     |   Medium   |                      JavaScript, Deserialization,   File Misconfiguration, Web                     |           |
+|     Ready     |   Medium   |                                   Bash, Account Misconfiguration                                   |           |
+|    Delivery   |    Easy    |                                   Bash, Account Misconfiguration                                   |           |
+|    Ophiuchi   |   Medium   |                         Java, Deserialization, Golang,   Source Code Review                        |           |
+|  ScriptKiddie |    Easy    |                                          Outdated Software                                         |           |
+|   Armageddon  |    Easy    |        Outdated   Software, Linux, Web, PHP, CMS Exploit, Password Reuse, CVE, Weak Password       |           |
+|     Knife     |    Easy    |                                       PHP, GTFOBins, Backdoor                                      |           |
+|      Pit      |   Medium   | PHP,   Bash, CMS Exploit, Arbitrary File Upload, Outdated Software, Process   Inspection, RCE, CVE |           |
+|  Seal (Linux) |   Medium   |                                        File Misconfiguration                                       |           |
 
 ### Windows VM's
 
