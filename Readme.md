@@ -2,6 +2,12 @@
 
 Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource provided to me or anyone interested in Penetration Testing and Ethical Hacking for that matter. 
 
+## Contents
+
+1. [Explore - Android (Easy)](Explore/Readme.md)
+2. [Lame - Linux (Easy)](Lame/Readme.md)
+3. [Shocker - Linux (Easy)](Shocker/Readme.md)
+
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
