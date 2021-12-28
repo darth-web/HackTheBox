@@ -35,7 +35,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |               |            |                                                                                                    |           |
 |     Lame      |    Easy    |                                       Injection, CMS Exploit                                       | Completed |
 |   Brainfuck   |   Insane   |                                            Cryptography                                            |           |
-|    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                |           |
+|    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                | Completed |
 |     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     |           |
 |    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             |           |
 |      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 |           |
