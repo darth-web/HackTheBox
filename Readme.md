@@ -37,7 +37,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |   Brainfuck   |   Insane   |                                            Cryptography                                            |           |
 |    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                | Completed |
 |     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     |           |
-|    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             |           |
+|    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             | Completed |
 |      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 |           |
 |     Cronos    |   Medium   |                              PHP, SQL, DNS Zone Transfer,   SQLi, Web                              |           |
 |    Nineveh    |   Medium   |                                   PHP,   Port Knocking, LFI, Web                                   |           |
