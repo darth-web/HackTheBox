@@ -7,6 +7,8 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 1. [Explore - Android (Easy)](Explore/Readme.md)
 2. [Lame - Linux (Easy)](Lame/Readme.md)
 3. [Shocker - Linux (Easy)](Shocker/Readme.md)
+4. [Nibbles - Linux (Easy)](Nibbles/Readme.com)
+5. [Bashed - Linux (Easy)](Bashed/Readme.md)
 
 ## Retired Machines vs Active Machines
 
@@ -36,7 +38,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |     Lame      |    Easy    |                                       Injection, CMS Exploit                                       | Completed |
 |   Brainfuck   |   Insane   |                                            Cryptography                                            |           |
 |    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                | Completed |
-|     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     |           |
+|     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     | Completed |
 |    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             | Completed |
 |      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 |           |
 |     Cronos    |   Medium   |                              PHP, SQL, DNS Zone Transfer,   SQLi, Web                              |           |
