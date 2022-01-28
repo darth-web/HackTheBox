@@ -9,7 +9,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 3. [Shocker - Linux (Easy)](Shocker/Readme.md)
 4. [Nibbles - Linux (Easy)](Nibbles/Readme.com)
 5. [Bashed - Linux (Easy)](Bashed/Readme.md)
-
+6. [Valentine - Linux (Easy)](Valentine/Readme.md)
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
@@ -47,7 +47,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |   Solidstate  |   Medium   |                                     File Misconfiguration, Web                                     |           |
 |    Kotarak    |    Hard    |                                     Arbitrary File Upload, Web                                     |           |
 |      Node     |   Medium   |                           API Fuzzing, JSON, File   Misconfiguration, Web                          |           |
-|   Valentine   |    Easy    |                                        Patch Management, Web                                       |           |
+|   Valentine   |    Easy    |                                        Patch Management, Web                                       | Completed |
 |     Poison    |   Medium   |                                 PHP, Log Poisoning, FreeBSD,   Web                                 |           |
 |     Sunday    |    Easy    |                                   Solaris, File Misconfiguration                                   |           |
 |  Tartaresauce |   Medium   |                                     C, Sandbox Escape, RFI, Web                                    |           |
