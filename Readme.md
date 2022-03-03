@@ -10,6 +10,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 4. [Nibbles - Linux (Easy)](Nibbles/Readme.com)
 5. [Bashed - Linux (Easy)](Bashed/Readme.md)
 6. [Valentine - Linux (Easy)](Valentine/Readme.md)
+7. [Beep - Linux (Easy)](Beep/Readme.md)
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
@@ -40,7 +41,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |    Shocker    |    Easy    |                                 Perl, Injection, Web -   Shellshock                                | Completed |
 |     Bashed    |    Easy    |                                     File Misconfiguration, Web                                     | Completed |
 |    Nibbles    |    Easy    |                             File Misconfiguration, Web -   Nibble Blog                             | Completed |
-|      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 |           |
+|      Beep     |    Easy    |                                 LFI, Web - /vtigercrm in   Elastix                                 | Completed |
 |     Cronos    |   Medium   |                              PHP, SQL, DNS Zone Transfer,   SQLi, Web                              |           |
 |    Nineveh    |   Medium   |                                   PHP,   Port Knocking, LFI, Web                                   |           |
 |     Sense     |    Easy    |                                       FreeBSD, Injection, Web                                      |           |
