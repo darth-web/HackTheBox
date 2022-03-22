@@ -11,6 +11,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 5. [Bashed - Linux (Easy)](Bashed/Readme.md)
 6. [Valentine - Linux (Easy)](Valentine/Readme.md)
 7. [Beep - Linux (Easy)](Beep/Readme.md)
+8. [Swagshop - Linux (Easy)](Swagshop/Readme.md)
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
@@ -54,7 +55,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |  Tartaresauce |   Medium   |                                     C, Sandbox Escape, RFI, Web                                    |           |
 |     Irked     |    Easy    |                                          Cryptography, Web                                         |           |
 |   Friendzone  |    Easy    |                        LFI, DNS Zone Transfer, File   Misconfiguration, Web                        |           |
-|    Swagshop   |    Easy    |                                           SQL, SQLi, Web                                           |           |
+|    Swagshop   |    Easy    |                                           SQL, SQLi, Web                                           | Completed |
 |   Networked   |    Easy    |                            PHP, Arbitrary File Upload,   Injection, Web                            |           |
 |     Jarvis    |   Medium   |                                      SQL, SQLi, Web, Injection                                     |           |
 |     Mirai     |    Easy    |                     Linux, Network, Default Creds,   File System Forensics, Web                    |           |
