@@ -13,7 +13,8 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 7. [Beep - Linux (Easy)](Beep/Readme.md)
 8. [Swagshop - Linux (Easy)](Swagshop/Readme.md)
 9. [Sense - Linux (Easy)](Sense/Readme.md)
-10. [Knife - Linux (Easy)](Knife/Readme.md) 
+10. [Knife - Linux (Easy)](Knife/Readme.md)
+11. [Armageddon - Linux (Easy)](Armageddon/Readme.md) 
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
@@ -82,7 +83,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |    Delivery   |    Easy    |                                   Bash, Account Misconfiguration                                   |           |
 |    Ophiuchi   |   Medium   |                         Java, Deserialization, Golang,   Source Code Review                        |           |
 |  ScriptKiddie |    Easy    |                                          Outdated Software                                         |           |
-|   Armageddon  |    Easy    |        Outdated   Software, Linux, Web, PHP, CMS Exploit, Password Reuse, CVE, Weak Password       |           |
+|   Armageddon  |    Easy    |        Outdated   Software, Linux, Web, PHP, CMS Exploit, Password Reuse, CVE, Weak Password       | Completed |
 |     Knife     |    Easy    |                                       PHP, GTFOBins, Backdoor                                      | Completed |
 |      Pit      |   Medium   | PHP,   Bash, CMS Exploit, Arbitrary File Upload, Outdated Software, Process   Inspection, RCE, CVE |           |
 |  Seal (Linux) |   Medium   |                                        File Misconfiguration                                       |           |
