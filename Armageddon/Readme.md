@@ -1,5 +1,7 @@
 # Armageddon - Linux (Easy)
 
+## Summary
+
 Armageddon was a straightforward box that involved a Drupalgeddon2 exploit which is quite common. I was able to upload a webshell and run commands to get initial access. Once I got initial access, I was able to access the database where the admin hash, once cracked was reused. To escalate privileges to root, I was able to exploit the fact that the admin user is able to install snap packages as root. 
 
 ## Enumeration
