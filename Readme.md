@@ -15,7 +15,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 9. [Sense - Linux (Easy)](Sense/Readme.md)
 10. [Knife - Linux (Easy)](Knife/Readme.md)
 11. [Armageddon - Linux (Easy)](Armageddon/Readme.md)
-12. [Scriptkiddie - Linux (Easy)](Scriptkiddie/Readme.md)
+12. [ScriptKiddie - Linux (Easy)](ScriptKiddie/Readme.md)
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
