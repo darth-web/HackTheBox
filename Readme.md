@@ -18,6 +18,8 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 12. [ScriptKiddie - Linux (Easy)](ScriptKiddie/Readme.md)
 13. [OpenAdmin - Linux (Easy)](OpenAdmin/Readme.md)
 14. [Traverxec - Linux (Easy)](Traverxec/Readme.md)
+15. [Networked - Linux (Easy)](Networked/Readme.md)
+
 ## Retired Machines vs Active Machines
 
 HTB's Active Machines are free to access, upon signing up. Accessing the retired machines, which come with a HTB issued walkthrough PDF as well as an associated walkthrough from [Ippsec](https://www.youtube.com/c/ippsec) are exclusive to paid [subscribers](https://www.hackthebox.com/newsroom/vip-plus).
@@ -62,7 +64,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |     Irked     |    Easy    |                                          Cryptography, Web                                         |           |
 |   Friendzone  |    Easy    |                        LFI, DNS Zone Transfer, File   Misconfiguration, Web                        |           |
 |    Swagshop   |    Easy    |                                           SQL, SQLi, Web                                           | Completed |
-|   Networked   |    Easy    |                            PHP, Arbitrary File Upload,   Injection, Web                            |           |
+|   Networked   |    Easy    |                            PHP, Arbitrary File Upload,   Injection, Web                            | Completed |
 |     Jarvis    |   Medium   |                                      SQL, SQLi, Web, Injection                                     |           |
 |     Mirai     |    Easy    |                     Linux, Network, Default Creds,   File System Forensics, Web                    |           |
 |    Popcorn    |   Medium   |                                              PHP, Web                                              |           |
