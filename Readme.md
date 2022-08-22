@@ -19,6 +19,7 @@ Starting out in Cybersecurity, HackTheBox (HTB) has been the go-to resource prov
 13. [OpenAdmin - Linux (Easy)](OpenAdmin/Readme.md)
 14. [Traverxec - Linux (Easy)](Traverxec/Readme.md)
 15. [Networked - Linux (Easy)](Networked/Readme.md)
+15. [Mirai - Linux (Easy)](Mirai/Readme.md)
 
 ## Retired Machines vs Active Machines
 
@@ -66,7 +67,7 @@ I have extracted the table and fed it into this repository and will be ticking o
 |    Swagshop   |    Easy    |                                           SQL, SQLi, Web                                           | Completed |
 |   Networked   |    Easy    |                            PHP, Arbitrary File Upload,   Injection, Web                            | Completed |
 |     Jarvis    |   Medium   |                                      SQL, SQLi, Web, Injection                                     |           |
-|     Mirai     |    Easy    |                     Linux, Network, Default Creds,   File System Forensics, Web                    |           |
+|     Mirai     |    Easy    |                     Linux, Network, Default Creds,   File System Forensics, Web                    | Completed |
 |    Popcorn    |   Medium   |                                              PHP, Web                                              |           |
 |    Haircut    |   Medium   |                                         PHP, Injection, Web                                        |           |
 |     Blocky    |    Easy    |                                              PHP, Web                                              |           |
